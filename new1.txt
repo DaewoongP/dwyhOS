@@ -17,8 +17,6 @@ start:
 	
 	
 	
-	
-	
 paint:
 	mov word [es:di], ax
 	add di, 2
